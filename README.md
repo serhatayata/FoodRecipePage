@@ -1,0 +1,3 @@
+- In this page, you can find meals for your ingredients.
+- And also, you can find recipes for these meals.
+- Information in this page comes from an API which is 'themealdb.com/api.php'
